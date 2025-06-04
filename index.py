@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Carregar a imagem em tons de cinza
-imagem_gray = cv2.imread('imagem_tons_de_cinza.jpg', cv2.IMREAD_GRAYSCALE)
+imagem_gray = cv2.imread('pseudocoloracao_imagens_cinzas/imagem.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Aplicar pseudo-colorização usando diferentes colormaps
 colormaps = {
