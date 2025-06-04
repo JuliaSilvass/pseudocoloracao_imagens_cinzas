@@ -9,7 +9,8 @@ colormaps = {
     'JET': cv2.COLORMAP_JET,
     'HOT': cv2.COLORMAP_HOT,
     'COOL': cv2.COLORMAP_COOL,
-    'VIRIDIS': cv2.COLORMAP_VIRIDIS
+    'VIRIDIS': cv2.COLORMAP_VIRIDIS,
+    'PLASMA': cv2.COLORMAP_PLASMA
 }
 
 # Criar uma figura para mostrar os resultados
